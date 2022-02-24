@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a nw branch is quick and simple.
 Testing the function of Merging.
 Testing the function of Bug repairments. 
+Testing the functino of Bug repairments again.
